@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interested in **Full-stack Web Development** and **JVM-based languages**(especially **Kotlin**).
+I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interested in **Full-stack Development** and **JVM-based languages**(especially **Kotlin**).
 
 ## Skills
 ### Languages
@@ -77,4 +77,5 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 * Owner of ARCINFO(Statistics site for Game Arcaea) (2020 ~ 2021, Discontinued)
 * Kwangmyeong High School in Busan (2017.03 ~ 2020.02)
 
-
+## Contact
+* Email: [me@eatsteak.dev](mailto:me@eatsteak.dev)
