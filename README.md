@@ -1,6 +1,8 @@
 ### Hi! 👋
 I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interested in **Full-stack Development** and **JVM-based languages**(especially **Kotlin**).
 
+[![wakatime](https://wakatime.com/badge/user/ea357eda-568e-40f7-a00c-8cacc075ce1e.svg)](https://wakatime.com/@ea357eda-568e-40f7-a00c-8cacc075ce1e)
+
 ## Skills
 ### Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
