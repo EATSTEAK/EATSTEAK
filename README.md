@@ -32,6 +32,8 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 * 숭실대 뭐먹지? - Recommend restaurants near Soongsil Univ. (2021)
   * _React and Python_
 ### Personal Projects
+* [EATSTEAK.DEV blog](https://eatsteak.dev) - Personal blog (2023 ~ )
+  * _Astro and SolidJS_
 * [rusaint](https://github.com/eatsteak/rusaint) - Soongsil University u-saint scraper. (2024)
   * _Rust and [uniffi](https://github.com/mozilla/uniffi-rs)_
 * [숭실대학교 IT대학 사물함 예약 시스템](https://github.com/twinsteak/lockerweb) - Locker reservation system for Soongsil University IT college. (2022 ~ )
