@@ -20,56 +20,44 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-<details><summary>Can do</summary>
-
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 </details>
 
-## Careers
-* Minecraft Mod Developer in 2021 LS ESG Competition by LS Cable & System Ltd. (2021)
+## Projects
+### Work Projects
+* LightspeedCable - Minecraft Cable mod in 2021 LS ESG Competition by LS Cable & System Ltd. (2021)
+  * _Kotlin and Java_
+* [OMSUserDB](https://userdb.ourmc.space) - Abuse user database in Minecraft by [우마공](https://cafe.naver.com/minecraftgame) (2020 ~ )
+  * _Vue.js 2, Nuxt.js 2, Express.js, Mongoose, MongoDB and Amazon Lightsail_
+### Collage Projects
+* 숭실대 뭐먹지? - Recommend restaurants near Soongsil Univ. (2021)
+  * _React and Python_
+### Personal Projects
+* [rusaint](https://github.com/eatsteak/rusaint) - Soongsil University u-saint scraper. (2024)
+  * _Rust and [uniffi](https://github.com/mozilla/uniffi-rs)_
+* [숭실대학교 IT대학 사물함 예약 시스템](https://github.com/twinsteak/lockerweb) - Locker reservation system for Soongsil University IT college. (2022 ~ )
+  * _Svelte, SvelteKit, AWS Lambda, Amazon DynamoDB, AWS SAM(Serverless Application Model), AWS CloudFormation, Amazon CloudFront and Amazon S3_
+* [ARCINFO](https://github.com/arc-info/arcinfo) - An statistics site for Game [Arcaea](https://arcaea.lowiro.com) (Jan 2020 ~ Jan 2021)
+  * _Vue.js 2, Nuxt.js 2, Express.js, Mongoose and MongoDB_
+### Pre-University Projects
+* [AllAboutSchool](https://github.com/eatsteak/AllAboutSchool) - Show meal plans in the user's school and estimate the user's school meal preference with ML. (2019)
+  * _Kotlin, Android, AndroidX Room Database, [DL4J](https://deeplearning4j.konduit.ai/) and [fastText](https://fasttext.cc/)_
+* [neisinfo](https://github.com/eatsteak/neisinfo) - Obtain school information from NEIS service. (2019)
+  * _Kotlin_
+* [SchoolSafe(not an complete source code)](https://github.com/eatsteak/SchoolSafe) - Remote classroom observer for safety with a camera, sound sensor, and speaker (2018)
+  * _PHP, C(Arduino) and Python_
+* [AirPurifier](https://github.com/eatsteak/AirPurifier), [AirPurifierArduino](https://github.com/eatsteak/AirPurifierArduino) - IoT enabled Air purifier powered by Arduino and Raspberry Pi. (2018)
+  * _PHP, C(Arduino) and Python_
+* [SteakGUI](https://github.com/eatsteak/SteakGUI-Deprecated) - Minecraft plugin for creating chest GUI. (2015)
+  * _Java_
+
+## Work Experience
 * Lead Developer of YouTube Creator Town 2021 by YouTube Korea (2021)
+* Chief Technology Officer at OMS Creative Co. Ltd. (2021 ~ 2022)
+* Project Designer and Developer - YouTube Creator Town 2020 by Youtube Korea (2020)
+
+
+## Education
 * Soongsil University, School of Media Bachelor's degree (2021 ~ )
-* Project Designer and Developer of YouTube Creator Town 2020 by Youtube Korea (2020)
-* Owner of ARCINFO(Statistics site for Game Arcaea) (2020 ~ 2021, Discontinued)
 * Kwangmyeong High School in Busan (2017.03 ~ 2020.02)
 
 ## Contact
