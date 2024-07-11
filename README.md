@@ -27,7 +27,9 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 * LightspeedCable - Minecraft Cable mod in 2021 LS ESG Competition by LS Cable & System Ltd. (2021)
   * _Kotlin and Java_
 * [OMSUserDB](https://userdb.ourmc.space) - Abuse user database in Minecraft by [우마공](https://cafe.naver.com/minecraftgame) (2020 ~ )
-  * _Vue.js 2, Nuxt.js 2, Express.js, Mongoose, MongoDB and Amazon Lightsail_
+  * _Vue.js 2 and Nuxt.js 2_
+  * _Express.js, Mongoose and MongoDB_
+  * _Amazon Lightsail_
 ### Collage Projects
 * 숭실대 뭐먹지? - Recommend restaurants near Soongsil Univ. (2021)
   * _React and Python_
@@ -37,9 +39,12 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 * [rusaint](https://github.com/eatsteak/rusaint) - Soongsil University u-saint scraper. (2024)
   * _Rust and [uniffi](https://github.com/mozilla/uniffi-rs)_
 * [숭실대학교 IT대학 사물함 예약 시스템](https://github.com/twinsteak/lockerweb) - Locker reservation system for Soongsil University IT college. (2022 ~ )
-  * _Svelte, SvelteKit, AWS Lambda, Amazon DynamoDB, AWS SAM(Serverless Application Model), AWS CloudFormation, Amazon CloudFront and Amazon S3_
+  * _Svelte and SvelteKit_
+  * _AWS Lambda, Amazon DynamoDB and AWS SAM(Serverless Application Model)
+  * _AWS CloudFormation, Amazon CloudFront and Amazon S3_
 * [ARCINFO](https://github.com/arc-info/arcinfo) - An statistics site for Game [Arcaea](https://arcaea.lowiro.com) (Jan 2020 ~ Jan 2021)
-  * _Vue.js 2, Nuxt.js 2, Express.js, Mongoose and MongoDB_
+  * _Vue.js 2 and Nuxt.js 2_
+  * _Express.js, Mongoose and MongoDB_
 ### Pre-University Projects
 * [AllAboutSchool](https://github.com/eatsteak/AllAboutSchool) - Show meal plans in the user's school and estimate the user's school meal preference with ML. (2019)
   * _Kotlin, Android, AndroidX Room Database, [DL4J](https://deeplearning4j.konduit.ai/) and [fastText](https://fasttext.cc/)_
