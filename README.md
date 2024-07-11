@@ -40,7 +40,7 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
   * _Rust and [uniffi](https://github.com/mozilla/uniffi-rs)_
 * [숭실대학교 IT대학 사물함 예약 시스템](https://github.com/twinsteak/lockerweb) - Locker reservation system for Soongsil University IT college. (2022 ~ )
   * _Svelte and SvelteKit_
-  * _AWS Lambda, Amazon DynamoDB and AWS SAM(Serverless Application Model)
+  * _AWS Lambda, Amazon DynamoDB and AWS SAM(Serverless Application Model)_
   * _AWS CloudFormation, Amazon CloudFront and Amazon S3_
 * [ARCINFO](https://github.com/arc-info/arcinfo) - An statistics site for Game [Arcaea](https://arcaea.lowiro.com) (Jan 2020 ~ Jan 2021)
   * _Vue.js 2 and Nuxt.js 2_
