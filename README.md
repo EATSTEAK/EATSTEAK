@@ -37,7 +37,7 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 * [EATSTEAK.DEV blog](https://eatsteak.dev) - Personal blog (2023 ~ )
   * _Astro and SolidJS_
 * [rusaint](https://github.com/eatsteak/rusaint) - Soongsil University u-saint scraper. (2024)
-  * _Rust and [uniffi](https://github.com/mozilla/uniffi-rs)_
+  * _Rust with [uniffi](https://github.com/mozilla/uniffi-rs)_ + Kotlin, Swift for Binding generation
 * [숭실대학교 IT대학 사물함 예약 시스템](https://github.com/twinsteak/lockerweb) - Locker reservation system for Soongsil University IT college. (2022 ~ )
   * _Svelte and SvelteKit_
   * _AWS Lambda, Amazon DynamoDB and AWS SAM(Serverless Application Model)_
