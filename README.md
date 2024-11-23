@@ -34,7 +34,6 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 * [OMSUserDB](https://userdb.ourmc.space) - Abuse user database in Minecraft by [우마공](https://cafe.naver.com/minecraftgame) (2020 ~ )
   * _Vue.js 2 and Nuxt.js 2_
   * _Express.js, Mongoose and MongoDB_
-  * _Amazon Lightsail_
 ### Personal Projects
 * [EATSTEAK.DEV blog](https://eatsteak.dev) - Personal blog (2023 ~ )
   * _Astro and SolidJS_
