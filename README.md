@@ -35,9 +35,6 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
   * _Vue.js 2 and Nuxt.js 2_
   * _Express.js, Mongoose and MongoDB_
   * _Amazon Lightsail_
-### Collage Projects
-* 숭실대 뭐먹지? - Recommend restaurants near Soongsil Univ. (2021)
-  * _React and Python_
 ### Personal Projects
 * [EATSTEAK.DEV blog](https://eatsteak.dev) - Personal blog (2023 ~ )
   * _Astro and SolidJS_
@@ -50,6 +47,13 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 * [ARCINFO](https://github.com/arc-info/arcinfo) - An statistics site for Game [Arcaea](https://arcaea.lowiro.com) (Jan 2020 ~ Jan 2021)
   * _Vue.js 2 and Nuxt.js 2_
   * _Express.js, Mongoose and MongoDB_
+<details>
+ <summary>More...</summary>
+ <section markdown="1">
+  
+ ### Collage Projects
+* 숭실대 뭐먹지? - Recommend restaurants near Soongsil Univ. (2021)
+  * _React and Python_
 ### Pre-University Projects
 * [AllAboutSchool](https://github.com/eatsteak/AllAboutSchool) - Show meal plans in the user's school and estimate the user's school meal preference with ML. (2019)
   * _Kotlin, Android, AndroidX Room Database, [DL4J](https://deeplearning4j.konduit.ai/) and [fastText](https://fasttext.cc/)_
@@ -61,8 +65,12 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
   * _PHP, C(Arduino) and Python_
 * [SteakGUI](https://github.com/eatsteak/SteakGUI-Deprecated) - Minecraft plugin for creating chest GUI. (2015)
   * _Java_
+ 
+ </section>
+</details>
 
 ## Work Experience
+* Software Enginer Intern at Hyperithm Co. Ltd. (2024.10~)
 * Lead Developer of YouTube Creator Town 2021 by YouTube Korea (2021)
 * Lead of R&D Department at OMS Creative Co. Ltd. (2021 ~ 2022)
 * Project Designer and Developer - YouTube Creator Town 2020 by Youtube Korea (2020)
