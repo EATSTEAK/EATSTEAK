@@ -1,22 +1,21 @@
 ### Hi! 👋
-I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interested in **Full-stack Development** and **JVM-based languages**(especially **Kotlin**).
+I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interested in **Full-stack Development**.
 
 ![Since](https://img.shields.io/badge/since-2013-black?style=for-the-badge&logo=github&logoColor=white)
 [![WakaTime](https://wakatime.com/badge/user/ea357eda-568e-40f7-a00c-8cacc075ce1e.svg?style=for-the-badge)](https://wakatime.com/@ea357eda-568e-40f7-a00c-8cacc075ce1e)
 
 ## Skills
 ### Languages
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+
 ### Frameworks and Libraries
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Database
@@ -24,7 +23,7 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Work Experience
-* Software Enginer Intern at Hyperithm Co. Ltd. (2024.10~)
+* Software Engineer Intern at Hyperithm Co. Ltd. (2024.10~)
 * Lead Developer of YouTube Creator Town 2021 by YouTube Korea (2021)
 * Lead of R&D Department at OMS Creative Co. Ltd. (2021 ~ 2022)
 * Project Designer and Developer - YouTube Creator Town 2020 by Youtube Korea (2020)
@@ -36,7 +35,7 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 
 ### Personal Projects
 * [EATSTEAK.DEV blog](https://eatsteak.dev) - Personal blog (2023 ~ )
-* [rusaint](https://github.com/eatsteak/rusaint) - Soongsil University u-saint scraper. (2024)
+* [rusaint](https://github.com/eatsteak/rusaint) - Soongsil University u-saint scraper. (2023 ~ )
 * [숭실대학교 IT대학 사물함 예약 시스템](https://github.com/twinsteak/lockerweb) - Locker reservation system for Soongsil University IT college. (2022 ~ )
 * [ARCINFO](https://github.com/arc-info/arcinfo) - An statistics site for Game [Arcaea](https://arcaea.lowiro.com) (Jan 2020 ~ Jan 2021)
 <details>
