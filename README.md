@@ -13,7 +13,7 @@ I'm **Hyomin Koo**, aka EATSTEAK. I'm an university student in Korea who interes
 
 ... And various things among various fields.
 ## Work Experience
-* Software Engineer Intern at Hyperithm Co. Ltd. (2024.10~)
+* Software Engineer Intern at Hyperithm Co. Ltd. (2024.10~2026.02)
 * Lead Developer of YouTube Creator Town 2021 by YouTube Korea (2021)
 * Lead of R&D Department at OMS Creative Co. Ltd. (2021 ~ 2022)
 * Project Designer and Developer - YouTube Creator Town 2020 by Youtube Korea (2020)
